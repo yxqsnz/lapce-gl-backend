@@ -1027,7 +1027,7 @@ checksum = "9ea835d29036a4087793836fa931b08837ad5e957da9e23886b29586fb9b6650"
 [[package]]
 name = "druid"
 version = "0.7.0"
-source = "git+https://github.com/lapce/druid#ce620508b16511c2c42e6c5bf36051bc8bcf19b0"
+source = "git+https://github.com/yxqsnz/druid#f60fe9ac9ba9e19da5beaf8a2a0e2bda007549ca"
 dependencies = [
  "console_error_panic_hook",
  "druid-derive",
@@ -1051,7 +1051,7 @@ dependencies = [
 [[package]]
 name = "druid-derive"
 version = "0.4.0"
-source = "git+https://github.com/lapce/druid#ce620508b16511c2c42e6c5bf36051bc8bcf19b0"
+source = "git+https://github.com/yxqsnz/druid#f60fe9ac9ba9e19da5beaf8a2a0e2bda007549ca"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -1061,7 +1061,7 @@ dependencies = [
 [[package]]
 name = "druid-shell"
 version = "0.7.0"
-source = "git+https://github.com/lapce/druid#ce620508b16511c2c42e6c5bf36051bc8bcf19b0"
+source = "git+https://github.com/yxqsnz/druid#f60fe9ac9ba9e19da5beaf8a2a0e2bda007549ca"
 dependencies = [
  "anyhow",
  "cfg-if 1.0.0",
@@ -3371,7 +3371,7 @@ dependencies = [
 [[package]]
 name = "piet-wgpu"
 version = "0.1.0"
-source = "git+https://github.com/lapce/piet-wgpu#400d4c9279dd4ca9966f7a211c9485f8bca01220"
+source = "git+https://github.com/yxqsnz/piet-wgpu#f7f4c76a81245e8991548b711ab64ef58fb1ab92"
 dependencies = [
  "bytemuck",
  "font-kit",
